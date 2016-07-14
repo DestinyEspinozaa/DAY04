@@ -1,1 +1,19 @@
 # DAY04
+Every image on the page
+<img src="images/STEM_summer_camp_600x190.jpg" alt="STEM Summer Camp" width="600" height="190" class="border0">
+<img src="images/STEM_summer_camp_600x190.jpg" alt="
+earning Institute)
+<img src="images/SLI-logo.png" width="330" height="150" alt="SLI Logo">
+The pictures of students working in labs Do they use the class or id attribute?
+they use a lab
+The header and footer of the page. 
+Do they use the class or id attribute?
+they use a class
+The big tagline in the middle (that says "STEM Summer Camp 2015")
+STEM Summer Camp 2016
+Does it use the class or id attribute? What about it's parent HTML tag?
+they use a id attribute
+All of the green colored city names (Baltimore, Buffalo, etc.)
+there is nothing colored green
+The "Session Descriptions" text in the center area
+<h2 class="left">Session Descriptions</h2>
